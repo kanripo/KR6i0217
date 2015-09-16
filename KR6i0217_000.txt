@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 持心梵天所問經
+#+DATE: 2015-08-30 20:13:05.167268
+#+PROPERTY: JUAN 0
