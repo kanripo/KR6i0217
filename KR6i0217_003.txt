@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 585
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0217_T_003-0018b> 
 #+PROPERTY: JUAN 3
 ¶
@@ -882,7 +882,7 @@
 
 於是，持心梵天問溥首曰：「菩薩何¶
 行應道行乎？」答曰：「梵天！若有菩薩行一切法，¶
-而於諸範悉無所行，是為菩薩欽崇道行超¶
+而於諸[簐-欠+几]悉無所行，是為菩薩欽崇道行超¶
 諸行性，斯謂，梵天！為菩薩者遵尚道行。」
 
 又¶
